@@ -15,3 +15,4 @@ let lightbox = new SimpleLightbox('.gallery a', {
     captionsData : 'alt',
     captionDelay: 250,
 });
+galleryEl.style.listStyle = 'none'
